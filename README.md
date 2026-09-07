@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Hosein 👋
 
-<!--
-**itshoseinmiri/itshoseinmiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer focused on building scalable web applications.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Software Engineer
+- ⚛️ React / TypeScript
+- 🟢 Node.js
+- 🏗️ Interested in System Design & Distributed Systems
+- 🌍 Open to interesting engineering opportunities
+
+## 🛠️ Tech Stack
+
+**Frontend**
+- React
+- TypeScript
+- Next.js
+
+**Backend**
+- Node.js
+- PostgreSQL
+- Redis
+
+**Tools**
+- Git
+- Docker
+- GitHub Actions
+
+## 📊 GitHub Stats
+
+<!-- Add GitHub stats here -->
+
+## 📫 Contact
+
+- LinkedIn: ...
+- Email: ...
