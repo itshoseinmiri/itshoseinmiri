@@ -1,139 +1,188 @@
 # Hey, I'm Hosein 👋
 
-### Software Engineer · Builder · Problem Solver
+### Software Engineer who enjoys turning complex problems into simple systems.
 
-I like turning **"what if we..."** into something that actually works.
+I build software, think about architecture, and spend an unreasonable amount of time asking:
 
-I'm a software engineer who enjoys building products, thinking about system architecture, and occasionally staring at a bug until it gets uncomfortable enough to fix itself. 😄
+> **“Okay… but what happens when this has 10 million users?”** 😄
+
+I'm particularly interested in **software architecture, scalable systems, frontend engineering, and building products that people actually enjoy using.**
+
+---
+
+## ⚡ About me
 
 ```text
-💡 Think        →    🧩 Design        →    💻 Build        →    🚀 Ship
+🎯 Build with purpose
+🧠 Think in systems
+🧩 Solve problems
+✨ Keep things simple
+🚀 Ship, learn, improve
 ```
 
----
-
-## 🧑‍💻 A little about me
-
-* 🏗️ I enjoy designing **clean, scalable software**
-* ⚛️ I spend a lot of time in the **JavaScript / TypeScript ecosystem**
-* 🎨 I care about the intersection of **good UX and good engineering**
-* 🧠 Currently interested in **System Design, distributed systems & software architecture**
-* 🔍 I enjoy understanding *why* things work, not just *how* to make them work
-* 🚀 I like shipping things more than endlessly talking about shipping things
-
-> **Good software isn't just code that works.
-> It's code that keeps working when everything gets bigger.**
+* 💻 Software Engineer focused on building reliable, maintainable products
+* ⚛️ Strong interest in **React, TypeScript & modern web architecture**
+* 🏗️ Passionate about **System Design & Software Architecture**
+* ⚙️ Interested in performance, scalability, developer experience, and clean code
+* 🔍 I enjoy understanding the *why* behind technical decisions
+* 📚 Constantly learning something new
+* ☕ Powered by coffee and questionable debugging decisions
 
 ---
 
-## ⚡ Tech I enjoy
+## 🧰 My toolbox
 
 ### Frontend
 
-`React` · `TypeScript` · `JavaScript` · `Next.js` · `HTML` · `CSS`
+![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square\&logo=next.js\&logoColor=white)
 
-### Backend
+### Backend & Data
 
-`Node.js` · `REST APIs` · `PostgreSQL` · `Redis`
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=node.js\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square\&logo=postgresql\&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square\&logo=redis\&logoColor=white)
 
 ### Engineering
 
-`System Design` · `Software Architecture` · `Design Patterns` · `Performance` · `Testing`
+`System Design` · `Software Architecture` · `REST APIs`
+`Design Patterns` · `Performance` · `Testing` · `CI/CD`
 
 ### Tools
 
-`Git` · `GitHub` · `Docker` · `Linux` · `CI/CD`
+`Git` · `GitHub` · `Docker` · `Linux`
 
 ---
 
-## 🧠 Currently thinking about
+## 🏗️ How I like to build
+
+I believe good engineering is less about writing **more code** and more about making the **right decisions**.
 
 ```text
-┌─────────────────────────────────────────────┐
-│                                             │
-│   How do we build software that scales      │
-│   without scaling the complexity with it?   │
-│                                             │
-└─────────────────────────────────────────────┘
+                 ┌──────────────┐
+                 │    Problem   │
+                 └──────┬───────┘
+                        │
+                        ▼
+                 ┌──────────────┐
+                 │   Understand │
+                 └──────┬───────┘
+                        │
+                        ▼
+              ┌────────────────────┐
+              │     Design         │
+              │                    │
+              │  "Keep it simple." │
+              └─────────┬──────────┘
+                        │
+                        ▼
+                 ┌──────────────┐
+                 │     Build    │
+                 └──────┬───────┘
+                        │
+                        ▼
+                 ┌──────────────┐
+                 │     Ship 🚀  │
+                 └──────┬───────┘
+                        │
+                        ▼
+                 ┌──────────────┐
+                 │ Learn & Loop │
+                 └──────────────┘
 ```
-
-I'm particularly interested in:
-
-* 🏛️ Software Architecture
-* ⚙️ Distributed Systems
-* 📈 Scalability & Performance
-* 🧩 Domain-driven design
-* 🔄 Event-driven architectures
-* 🧪 Reliable & maintainable code
 
 ---
 
-## 🚀 Things I like building
+## 🧠 Things I'm curious about
 
-```text
-        Ideas
-          │
-          ▼
-      ┌───────┐
-      │ Design│
-      └───┬───┘
-          │
-          ▼
-      ┌───────┐
-      │ Build │
-      └───┬───┘
-          │
-          ▼
-      ┌───────┐
-      │ Scale │
-      └───┬───┘
-          │
-          ▼
-       ☕ More
-        coffee
-```
+I'm always exploring questions like:
 
-Whether it's a small side project or a large production system, I enjoy the process of taking something from **idea → architecture → implementation → production**.
+* How do we design systems that **scale without becoming impossible to maintain?**
+* How can we make frontend applications **fast, predictable, and enjoyable to work with?**
+* Where should complexity live — and where should it **not**?
+* How do we build systems that are easy to change **six months from now?**
+* How can great UX and great engineering reinforce each other?
+
+Basically:
+
+> **Make it work → make it right → make it scale.**
 
 ---
 
-## 📊 GitHub
+## 🚀 What you'll find here
+
+This profile is a collection of things I'm building, learning, experimenting with, and occasionally breaking.
+
+Expect a mix of:
+
+* 🏗️ Real-world projects
+* 🧪 Experiments & prototypes
+* 🧠 System design explorations
+* ⚛️ Frontend architecture
+* ⚙️ Backend & infrastructure experiments
+* 📚 Things I've learned along the way
+
+Some repositories are polished.
+
+Some are experiments.
+
+Some are evidence that **“I'll refactor this later” is one of the most dangerous sentences in software engineering.** 😅
+
+---
+
+## 📈 GitHub activity
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&hide_border=true\&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&count_private=true" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true" />
 
 </div>
 
 ---
 
-## 🛠️ Currently building
-
-**`Something interesting...`**
+## 🎯 Currently
 
 ```text
-Status: ███████████████░░░ 80%
-
-☕ Coffee       ████████████████████ 100%
-💻 Coding      ████████████████░░░░  80%
-🐛 Debugging   ██████████░░░░░░░░░░  50%
-😴 Sleeping    ███░░░░░░░░░░░░░░░░░  15%
+Building      ████████████████░░░░  80%
+Learning      ██████████████░░░░░░  70%
+Refactoring   ██████████░░░░░░░░░░  50%
+Debugging     ████████████████████ 100%
+Coffee        ████████████████████ 100%
 ```
+
+### Current interests
+
+`System Design`
+`Scalable Architecture`
+`Frontend Engineering`
+`TypeScript`
+`Distributed Systems`
+`Developer Experience`
 
 ---
 
-## 💬 Let's connect
+## 🤝 Let's connect
 
-I'm always happy to talk about:
+I'm always interested in meeting people who enjoy **building things, solving hard problems, and learning from each other.**
 
-**Software Engineering · Architecture · Startups · Open Source · Tech · Interesting Problems**
+Whether it's a technical discussion, an interesting project, an architecture rabbit hole, or just a good conversation about software — feel free to reach out.
 
-If you're building something interesting, feel free to say hello.
+---
 
 <div align="center">
 
-### *Build things. Break things. Learn things. Repeat.* 🚀
+### Build something useful.
+
+### Make it beautiful.
+
+### Keep it simple.
+
+### Then make it scale. 🚀
+
+**Thanks for stopping by.**
 
 </div>
